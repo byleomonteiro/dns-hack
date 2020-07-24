@@ -1,2 +1,2 @@
 # DNSHack
-Script para Enumeração de DNS: NS, MX, Brute Force Domain, Zone Transfer Force
+:alien: Enumeration DNS Script: NS, MX, Brute Force Domain, Zone Transfer Force
